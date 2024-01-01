@@ -8,11 +8,11 @@
     --font-mobile-size: 14px;
     --color-heading: #fcfcfc;
     --color-paragraph: #d6d6d6;
-    --color-border: #383838;
-    --color-bg: #121212;
+    --color-border: #7058C0;
+    --color-bg: #7058C0;
     --color-surface-1: #1e1e1f64;
-    --color-surface-2: #2a2a2b;
-    --color-surface-3: #202021;
+    --color-surface-2: #7058C0;
+    --color-surface-3: #7058C0;
     --color-accent: #ffffff;
     --color-error: #b84c4c;
     --color-gradient: linear-gradient(137.84deg, #c3c3c3 26.31%, #7e7e7e 93.75%);
@@ -21,8 +21,8 @@
     --color-gradient-border: linear-gradient(155deg, #c3c3c3 0%, rgba(255, 191, 96, 0) 50%);
     --color-gradient-border-gray: linear-gradient(135deg, #404040 0%, rgba(64, 64, 64, 0) 48.44%);
     --color-gradient-gray: linear-gradient(137.84deg, #3f3f40 2.69%, #303030 93.75%);
-    --color-gradient-icon: linear-gradient(135deg, rgba(195, 195, 195, 0.25) 0%, rgba(126, 126, 126, 0) 59.86%), #202021;
-    --color-btn: linear-gradient(135deg, rgba(45, 45, 46, 0.25) 0%, rgba(27, 27, 28, 0) 100%), #202021;
+    --color-gradient-icon: linear-gradient(135deg, rgba(195, 195, 195, 0.25) 0%, rgba(126, 126, 126, 0) 59.86%), #7058C0;
+    --color-btn: linear-gradient(135deg, rgba(45, 45, 46, 0.25) 0%, rgba(27, 27, 28, 0) 100%), #7058C0;
     --radius-32: 32px;
     --radius-20: 20px;
     --radius-18: 18px;
@@ -448,7 +448,7 @@ a.link-gradient {
     position: fixed !important;
     width: 100%;
     height: 100%;
-    background-color: #121212;
+    background-color: #7058C0;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: cover;
